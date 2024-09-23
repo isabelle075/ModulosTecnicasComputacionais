@@ -44,23 +44,23 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Um chat com IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado:"quais os principais benefícios da reciclagem?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: " evita agressões ao solo, água e ar.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "ajuda no meio ambiente",
+                    "economia de energia e água.",
+                    "diminui o consumo de energia e minimiza a quantidade de resíduos em aterros sanitários."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "proporciona melhor qualidade de vida.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "sem lixo acumulado.",
+                    "Ao separar materiais recicláveis do restante do lixo, diminuímos a quantidade de resíduos enviados para aterros sanitários, o que retarda a sua saturação e prolonga a sua vida útil, além de evitar a criação de novos aterros.",
+                    "Áreas com programas de reciclagem ativos costumam ter ruas mais limpas, menos poluição e um ambiente mais saudável, contribuindo para o bem-estar geral da população."
                 ],
                 proxima: 4,
             },
